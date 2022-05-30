@@ -10,4 +10,3 @@ Skills:  REACT | JS | HTML | CSS | MongoDB | ExpressJs | NodeJs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamaraRD)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/thamaraRD)  
