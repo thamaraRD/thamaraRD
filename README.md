@@ -1,6 +1,5 @@
 ### Hi 👋, Soy Thamara Ramos Deffitt
 #### Jr Developer 💻
-Lo que más me gusta es React y quiero llegar a dominarlo 💪🏼 
 
 #### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thamara-ramos-deffitt/) 
