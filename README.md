@@ -1,4 +1,4 @@
-### Hi 👋, Soy Thamara Ramos Deffitt
+### Hi 👋, I am Thamara Ramos Deffitt
 #### Jr Developer 💻
 
 #### Connect with me:
