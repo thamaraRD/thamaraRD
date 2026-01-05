@@ -3,7 +3,7 @@
 #### Conecta conmigo en:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thamara-ramos-deffitt/) 
  
-#### ó traves de mi portfolio [:briefcase:](https://thamara-ramos.vercel.app/)
+#### ó a traves de mi portfolio [:briefcase:](https://thamara-ramos.vercel.app/)
 
 #### Estas son algunas de mis skills y herramientas que manejo:
 
